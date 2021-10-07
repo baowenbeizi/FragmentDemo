@@ -1,0 +1,1 @@
+这是一个帮助学习Android Activity与Fragment生命周期的Demo，通过Log日志的形式记录各方法的执行顺序，使用Android Studio运行此程序后可以在Logcat窗口中看到各方法的执行顺序。
